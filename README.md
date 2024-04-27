@@ -1,11 +1,22 @@
-## 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+## 👤 About me
+### Experienced Flutter Developer, since 2019 building mobile applications for Android and iOS.
+
+### Skilled in using Flutter framework, Dart programming language, and other tools and technologies to develop user-friendly and responsive applications. 
+
+### Ability to work collaboratively with cross-functional teams to deliver high-quality products.
+
+
+## ⚡ Hardskills
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=0E76A8)
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=blue) 
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=red) 
+
+## 💬 Where to find me?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jamesldr/)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesldr&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jamesldr&theme=bear&background=000&border=30A3DC&dates=FFF)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=jamesldr&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesldr&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
