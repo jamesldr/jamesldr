@@ -1,10 +1,10 @@
 
 ## 👤 About me
-### Experienced Flutter Developer, since 2019 building mobile applications for Android and iOS.
+ Experienced Flutter Developer, since 2019 building mobile applications for Android and iOS.
 
-### Skilled in using Flutter framework, Dart programming language, and other tools and technologies to develop user-friendly and responsive applications. 
+ Skilled in using Flutter framework, Dart programming language, and other tools and technologies to develop user-friendly and responsive applications. 
 
-### Ability to work collaboratively with cross-functional teams to deliver high-quality products.
+ Ability to work collaboratively with cross-functional teams to deliver high-quality products.
 
 
 ## ⚡ Hardskills
